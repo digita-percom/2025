@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DIGITA 25</title>
+    <link>https://digita.github.io/2025/post/</link>
+    <description>Recent content in Posts on DIGITA 25</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://digita.github.io/2025/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accepted Papers</title>
+      <link>https://digita.github.io/2025/accepted/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita.github.io/2025/accepted/</guid>
+      <description>Accepted Papers Once the peer-review process is finalized, we will announced here the accepted submissions.</description>
+    </item>
+    
+    <item>
+      <title>Dates</title>
+      <link>https://digita.github.io/2025/dates/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita.github.io/2025/dates/</guid>
+      <description>Dates Paper submission deadline: November 17th, 2024 Paper notification: January 8th, 2025 Camera Ready Deadline: February 2nd, 2025 Workshop: ??? </description>
+    </item>
+    
+    <item>
+      <title>Organization</title>
+      <link>https://digita.github.io/2025/organization/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita.github.io/2025/organization/</guid>
+      <description>Committees Organising Committee Sara Montagna, Department of Pure and Applied Science - University of Urbino Carlo Bo, Italy Marco Picone, Department of Sciences and Methods for Engineering (DISMI) - University of Modena and Reggio Emilia Samuele Burattini, Department of Computer Science and Engineering - Alma Mater Studiorum University of Bologna, Italy Program Committee Gianluca Aguzzi, University of Bologna, Italy Stefano Mariani, University of Modena and Reggio Emilia, Italy &amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>https://digita.github.io/2025/program/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita.github.io/2025/program/</guid>
+      <description>Program Program is not out yet!</description>
+    </item>
+    
+    <item>
+      <title>Call for papers</title>
+      <link>https://digita.github.io/2025/cfp/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita.github.io/2025/cfp/</guid>
+      <description>Call for Papers The “Digital Twin Ecosystems &amp;amp; Applications” (DIGITA) workshop aims to provide a platform for sharing knowledge and experiences in the field of Digital Twin Ecosystems and their practical applications. This workshop seeks to explore the latest trends, challenges, and opportunities in the engineering and application of Digital Twin Ecosystems. Methodologies and tools for design and development, enabling technologies, and innovative use cases will be presented and discussed. Additionally, the workshop will offer an opportunity for researchers, practitioners, and industry experts to exchange ideas, collaborate on projects, and foster advancements in the rapidly evolving field of DT.</description>
+    </item>
+    
+  </channel>
+</rss>
