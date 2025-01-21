@@ -13,7 +13,8 @@
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://digita-percom.github.io/2025/accepted/</guid>
-      <description>Accepted Papers Once the peer-review process is finalized, we will announced here the accepted submissions.</description>
+      <description>Accepted Papers We received a total of 15 submissions to the workshop, out of which we selected 9 for presentation to the workshop. We thank all authors and reviewers for their contribution to the DIGITA Workshop.
+Authors Title Alberto Marfoglia, Christian D&amp;rsquo;Errico, Filippo Nardini, Sabato Mellone and Antonella Carbonaro CONNECTED: A Knowledge Graph-Driven Platform for Clinical Data Harmonization and Personalized Digital Twin-Based Healthcare Gian Marco Paldino, Olivier Caelen, Marouene Oueslati, Tojo Valisoa Johanesa, Marc Ansay and Gianluca Bontempi Integrating Domain Adaptation and Causal Inference in Digital Twins for Plastic Injection Molding Kai Franke and Tobias Koch FIWARE as a Scalable Digital Twin Interface for DT Ecosystems: Benchmark and Limitations Timothé Lacheroy, Abdelhadi Belfadel and Jean-Yves Didier XRTwin4Industry: A Comprehensive Framework for Standardization and Interoperability in XR-Enabled Industrial Digital Twins Piotr Hajder, Mateusz Mojżeszko, Filip Hallo, Lucyna Hajder, Krzysztof Regulski, Krzysztof Banaś, Monika Pernach, Danuta Szeliga, Krzysztof Bzowski, Kazimierz Michalik, Adam Mrozek, Łukasz Sztangret, Marek Wilkus, Tomasz Jażdżewski, Wojciech Jędrysik, Rafał Nadolski, Andrzej Opaliński and Łukasz Rauch Towards an Interoperable Digital Shadow Framework for Continuous Steel Casting using Explainable AI and Kubernetes Fabrizio Baiardi, Salvatore Ruggieri and Vincenzo Sammartino AI-enabled Cybersecurity using Synthetic Data Mirgita Frasheri, Prasad Talasila, Peter Gorm Larsen and Lukas Esterle Multi-fidelity digital twins for dynamic adaption and efficient distributed simulation Francesco Franco, Lorenzo Lamazzi and Luca Bedogni A Multi-Layer architecture for Human Digital Twin </description>
     </item>
     
     <item>
@@ -25,8 +26,8 @@
       <description>Dates Paper submission deadline: November 17th, 2024 December 1st, 2024
 Paper notification: January 8th, 2025 January 10, 2025
 Camera Ready Deadline: February 2nd, 2025
-Workshop: to be announced (17-21 March, 2025)
-To facilitate the workshop organization and the review process, we invite contributors to submit their abstract by November 24th, 2024 </description>
+Workshop: March 21, 2025
+For your Camera Ready, please refer to the official PerCom instructions</description>
     </item>
     
     <item>
@@ -53,7 +54,8 @@ To facilitate the workshop organization and the review process, we invite contri
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://digita-percom.github.io/2025/program/</guid>
-      <description>Program Updates on the workshop program will be posted here.</description>
+      <description>Program The workshop will be a full day workshop on the 21 March 2025
+Further updates will follow&amp;hellip;</description>
     </item>
     
     <item>
@@ -63,6 +65,15 @@ To facilitate the workshop organization and the review process, we invite contri
       
       <guid>https://digita-percom.github.io/2025/cfp/</guid>
       <description>Call for Papers The Digital Twin Ecosystems &amp;amp; Applications (DIGITA) workshop aims to provide a platform for sharing knowledge and experiences in the field of Digital Twin Ecosystems and their practical applications. This workshop seeks to explore the latest trends, challenges, and opportunities in the engineering and application of pervasive systems adopting the Digital Twin Ecosystems approach. Methodologies and tools for design and development, enabling technologies, and innovative use cases will be presented and discussed.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://digita-percom.github.io/2025/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita-percom.github.io/2025/about/</guid>
+      <description>The 23nd International Conference on Pervasive Computing and Communications (PerCom 2025) March 17 – 21, 2025, Washington DC, USA (Walter E. Washington Convention Center) Conference Overview IEEE PerCom, now in its 23rd year, will be held at Walter E. Washington Convention Center in Washington DC, USA, from March 17 – 21, 2025, as a physical in-person conference. PerCom is the premier annual scholarly venue in pervasive computing and communications. Pervasive computing is constantly at the forefront of mobile systems research and has found its way into many commercial systems due to tremendous advances in a broad spectrum of technologies and topics such as wireless networking, mobile and distributed computing, sensor systems, ambient intelligence, and smart devices.</description>
     </item>
     
     <item>
