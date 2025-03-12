@@ -82,7 +82,7 @@ The workshop will be a full day workshop on the **21st of March 2025**
 
 ## Keynote: Digital Twins for Autonomous and Pervasive Computing
 
-### Speaker: Lukas Esterler
+### Speaker: Lukas Esterle
 
 <div style="float: right; width: 30%; padding:0px 50px 0px 30px;">
     <img src="/2025/img/lukas.jpg" alt="Keynote Speaker: Lukas Esterle">
